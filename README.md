@@ -7,8 +7,8 @@
 Number | Description
 --- | --- 
 *1* | *UI Desinger*: In school I can do it when I was 12 years old. My friend make me continue it because they always support me for the "heart".
-*2* | *Dancing Line Level Decorator: * I started it with a unfinished level name Fly Away , it got a beautiful decoration and people like it.
-*3* | *Coder: * Currently, I'm studying C# and C++. It's help me to make game, somehow I might make a Discord Bot.
+*2* | *Dancing Line Level Decorator:* I started it with a unfinished level name Fly Away , it got a beautiful decoration and people like it.
+*3* | *Coder:* Currently, I'm studying C# and C++. It's help me to make game, somehow I might make a Discord Bot.
 *4* | *Video maker:* I can make a "great" video, check it on my Youtube channel.
 ## 🎮 Game
 - I'm working on a game. It called Adventure of Cube. The project was started from Halloween 2021 and got discontiune on 2/1/2022 (DD/MM/YYYY). But now it was revived and I'm gonna realese it in this Summer Holiday.
