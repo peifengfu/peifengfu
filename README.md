@@ -1,3 +1,4 @@
+![alt text](https://github.com/its-Bell/its-Bell/blob/main/BannersCinema.png)
 # Introduce
 ## 📜 Information
 - 🌏 *Existed day:* `01/05/2007 (DD/MM/YYYY)`
