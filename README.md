@@ -1,11 +1,14 @@
 #
 ![alt text](https://github.com/its-Bell/its-Bell/blob/main/BannersCinema.png)
 #
+[![Discord Presence](https://lanyard.cnrad.dev/api/850549328426434590)](https://discord.com/users/850549328426434590)
+#
 # `Introduce`
 ## `📜 Information`
 - 🌏 *Existed day:* `01/05/2007 (DD/MM/YYYY)`
 - 🧬 *Gender:* `Male`
 - *An Asian guy* 🧑
+
 ## `⭐ Talent`
 Number | Description
 --- | --- 
@@ -13,9 +16,11 @@ Number | Description
 *2* | *Dancing Line Level Decorator:* I started it with a unfinished level name Fly Away , it got a beautiful decoration and people like it.
 *3* | *Coder:* Currently, I'm studying C# and C++. It's help me to make game, somehow I might make a Discord Bot.
 *4* | *Video maker:* I can make a "great" video, check it on my Youtube channel.
+
 ## `🎮 Game`
 - I'm working on a game. It called Adventure of Cube. The project was started from Halloween 2021 and got discontiune on 2/1/2022 (DD/MM/YYYY). But now it was revived and I'm gonna realese it in this Summer Holiday.
 - Download at: [`Here`](https://github.com/ShiroUnity/Adventure-of-Cube)
+
 ## `👥 Social`
 - Youtube: [`Leq`](https://www.youtube.com/channel/UC-8r8fhJRF2wHhhqVQGROaQ)
 - Twitter: [`Is`](https://twitter.com/Bell25101)
