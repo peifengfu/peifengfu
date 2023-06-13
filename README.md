@@ -5,7 +5,7 @@
 #
 # `Introduce`
 ## `📜 Information`
-- 🌏 *Existed day:* `01/05/2007 (DD/MM/YYYY)`
+- 🌏 *Existed day:* `01/05/200x (DD/MM/YYYY)`
 - 🧬 *Gender:* `Male`
 - *An Asian guy* 🧑
 
