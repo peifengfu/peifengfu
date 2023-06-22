@@ -1,2 +1,2 @@
-![alt text](https://github.com/its-Bell/its-Bell/blob/main/BannersCinemaRounded.png)
+uwu
 <div align="center">
